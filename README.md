@@ -9,21 +9,6 @@
 [![MadeWithLaravel.com shield](https://madewithlaravel.com/storage/repo-shields/1342-shield.svg)](https://madewithlaravel.com/p/laravel-auth/shield-link)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jeremykenedy)
-[![Sponsor me on Patreon](https://img.shields.io/static/v1?label=patreon&message=%E2%9D%A4&logo=Patreon&color=F35B49&style=flat)](https://patreon.com/jeremykenedy)
-[![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jeremykenedy)
-[![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat&logo=vultr)](https://www.vultr.com/?ref=9338425-8H)
-[![GitHub Stars](https://img.shields.io/github/stars/jeremykenedy/laravel-auth?style=social)](https://github.com/jeremykenedy/laravel-auth/stargazers)
-[![Follow on GitHub](https://img.shields.io/github/followers/jeremykenedy?style=social)](https://github.com/jeremykenedy)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/developernator?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=developernator)
-
-> This project costs me $22/month to be hosted on [Vultr](https://www.vultr.com/?ref=9338425-8H).<br>
-> Please consider [supporting my work](https://patreon.com/jeremykenedy) if you use & find it useful. ❤️
-
-### Note
-
-If you like this, you will love [Laravel Auth Spa](https://github.com/jeremykenedy/laravel-spa) with configurable providers from an admin panel.
-
 #### Table of contents
 
 -   [About](#about)
